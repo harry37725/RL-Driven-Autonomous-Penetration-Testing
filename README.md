@@ -405,7 +405,7 @@ The agent successfully transfers to networks with similar topology structure (sm
 
 ### 15-Node Network
 
-<img width="1120" height="560" alt="episode_04" src="https://github.com/user-attachments/assets/3132a910-5e16-49b8-8b25-599b9d1263eb" />
+<img width="503" height="374" alt="test_results" src="https://github.com/user-attachments/assets/05459042-361a-4979-8d89-b655c1de494a" />
 
 
 | Metric               | Value                  |
