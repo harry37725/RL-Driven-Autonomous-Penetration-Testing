@@ -1,0 +1,13 @@
+# Model weights
+*.pt
+*.pkl
+
+# Eval artifacts
+results_random/eval/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temp
+.sixth/

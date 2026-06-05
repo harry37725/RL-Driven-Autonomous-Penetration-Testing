@@ -1,0 +1,5 @@
+group,param,config,value,success_pct,caught_pct,timeout_pct,avg_reward,avg_steps,avg_loss
+G5,target_update_freq,Infrequent   (500),500,55.0,16.0,29.0,156.8,73.7,6301.2744
+G5,target_update_freq,Very frequent (50),50,22.0,10.0,68.0,-22.1,91.2,278122629.3402
+G5,target_update_freq,Frequent     (100),100,20.0,6.0,74.0,-62.0,92.9,1269209694.3743
+G5,target_update_freq,Default      (200),200,19.0,15.0,66.0,-58.8,92.0,146483586.7245

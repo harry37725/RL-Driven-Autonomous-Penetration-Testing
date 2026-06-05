@@ -1,0 +1,8 @@
+GRID SEARCH — BEST HYPERPARAMETER CONFIG
+Total combinations tested : 81
+Episodes per combo        : 500
+Scoring metric            : True Score = Success% - Caught%
+==================================================
+
+TOP 10 CONFIGS:
+

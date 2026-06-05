@@ -1,0 +1,16 @@
+BEST HYPERPARAMETER CONFIG
+========================================
+
+G5 Target Network Update Frequency
+  Best : Infrequent   (500)
+  Value: target_update_freq = 500
+  Score: 55.0% success
+
+========================================
+COPY INTO train.py CFG:
+
+  "lr":                 0.001,
+  "gamma":              0.99,
+  "epsilon_decay":      0.9995,
+  "batch_size":         64,
+  "target_update_freq": 500,
